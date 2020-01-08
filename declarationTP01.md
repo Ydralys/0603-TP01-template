@@ -2,6 +2,7 @@
 
 ---
 | Binôme | Nom1, Nom2 (à remplir)
+| ---|---
 | Groupe | xxxx (à remplir)
 ---
 Exemple de déclaration à  modifier ce que vous avez réalisé.
