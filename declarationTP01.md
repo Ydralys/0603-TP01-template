@@ -21,10 +21,10 @@ Exemple de déclaration à  modifier ce que vous avez réalisé.
 | 5) Sauvegarde en format compressé | non fait
 | 6) Chargement en format compressé  | non fait
 
-### Légende:
-*fait* = réalisé et fonctionnel (aucun bug détecté),
-*partiel* = partiellement fonctionnel  avec description de ce qui fonctionne ou ne fonctionne pas,
-*non testée* = écrit par par testée).
+### Légende
+- *fait* = réalisé et fonctionnel (aucun bug détecté),
+- *partiel* = partiellement fonctionnel  avec description de ce qui fonctionne ou ne fonctionne pas,
+- *non testée* = écrit par par testée).
 
 ---
 Année universitaire 2019-2020 : version du 8 janvier 2020.
