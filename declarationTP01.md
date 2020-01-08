@@ -1,7 +1,7 @@
 ## Déclaration de travaux TP N°1
-**Binôme:** Nom1, Nom2 (à remplir)
 ---
-**Groupe:** xxxx (à remplir)
+### Binôme: Nom1, Nom2 (à remplir)
+### Groupe: xxxx (à remplir)
 ---
 Exemple de déclaration à  modifier ce que vous avez réalisé.
 
