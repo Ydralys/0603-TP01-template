@@ -1,5 +1,6 @@
 ## Déclaration de travaux TP N°1
 **Binôme:** Nom1, Nom2 (à remplir)
+
 **Groupe:** xxxx (à remplir)
 ---
 Exemple de déclaration à  modifier ce que vous avez réalisé.
@@ -21,7 +22,9 @@ Exemple de déclaration à  modifier ce que vous avez réalisé.
 
 **Légende:**
 *fait* = réalisé et fonctionnel (aucun bug détecté),
+
 *partiel* = partiellement fonctionnel  avec description de ce qui fonctionne ou ne fonctionne pas,
+
 *non testée* = écrit par par testée).
 
 ---
