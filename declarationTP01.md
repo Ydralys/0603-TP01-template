@@ -5,13 +5,14 @@
 ---
 Exemple de déclaration à  modifier ce que vous avez réalisé.
 
-| Exercice 1 | Déclaration
+## Exercice 1
+| Question | Déclaration
 | ---|---
 | 1) écriture/lecture de bit à bit | fait.
 | 2) écriture/lecture bloc par bloc | fait.
 
-
-| Exercice 2 | Déclaration
+## Exercice 2
+| Question | Déclaration
 | ---|---
 | 1) Fonction chargement du fichier de données  | fait.
 | 2) Codage à taille fixe en mémoire | fait.
