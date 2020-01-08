@@ -24,7 +24,7 @@ Exemple de déclaration à  modifier ce que vous avez réalisé.
 ### Légende
 - *fait* = réalisé et fonctionnel (aucun bug détecté),
 - *partiel* = partiellement fonctionnel  avec description de ce qui fonctionne ou ne fonctionne pas,
-- *non testée* = écrit par par testée).
+- *non testé* = écrit mais pas testé).
 
 ---
 Année universitaire 2019-2020 : version du 8 janvier 2020.
