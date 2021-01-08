@@ -109,8 +109,8 @@ int main() {
 	cout << "en entier: ";
 	for(auto x : vFile) cout << int(x.get()) << " ";
 	cout << endl;
-	// note que le cas est nécessaire ci-dessus car Bits::Block<5> produit un support
-	// uint8_t qui n'est pas interprété comme un entier par
+	// noter que le cast est nécessaire ci-dessus car Bits::Block<5> produit un support
+	// uint8_t qui n'est pas interprété comme un entier par cout mais comme un char.
 
 	cin.get();
 	return 0;
