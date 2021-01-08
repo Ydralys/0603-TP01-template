@@ -39,7 +39,7 @@ On veut dans cette partie produire un codage à taille fixe d'un fichier texte.
   * tous les résultats des compressions seront stockés dans des fichiers partageant tous le même format, à savoir une entête contenant la taille du fichier, un magic number pour identifier le type de compression, et dans le cas du CTF, par exemple, le nombre de symboles à lire, la taille de la table des symboles/codes, puis la table des symboles/des codes. Cette entête sera suivie des données écrits en binaire.
 
 ## Remise de ce TP
-Le TP doit être remis au plus tard le mardi de la semaine qui suit la date du TP.
+Le TP doit être remis au plus tard le vendredi de la semaine qui suit la date du TP.
 
 Le dépôt s'effectuera à travers l'outil "GitHub Classroom" en utilisant la procédure qui vous a été transmise par courriel.
 
