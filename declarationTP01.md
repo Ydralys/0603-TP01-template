@@ -1,7 +1,7 @@
 ## Déclaration de travaux TP N°1
-| Binôme | Nom1, Nom2 (à remplir)
+| Binôme | Bouzon, Fantoli
 | ---|---
-| Groupe | xxxx (à remplir)
+| Groupe | S6O6B
 
 Exemple de déclaration à  modifier ce que vous avez réalisé.
 
@@ -27,4 +27,4 @@ Exemple de déclaration à  modifier ce que vous avez réalisé.
 - *non testé* = écrit mais pas testé).
 
 ---
-Année universitaire 2019-2020 : version du 8 janvier 2020.
+Année universitaire 2020-2021 : version du 8 janvier 2020.
